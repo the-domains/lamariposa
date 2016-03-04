@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[La Mariposa Polo]]></title>
         <description><![CDATA[La Mariposa Polo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lamariposa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 20:10:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 20:15:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lamariposa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Test post</p>]]></description>
+            <link>https://thegrid.ai/lamariposa/fee05e6f-2041-45f7-b023-e15ca7786e71/index.html</link>
+            <guid isPermaLink="false">fee05e6f-2041-45f7-b023-e15ca7786e71</guid>
+            <pubDate>Fri, 04 Mar 2016 20:13:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://scontent.fman1-1.fna.fbcdn.net/hphotos-xtp1/v/t1.0-9/10429442_777825392261531_3573655186599315790_n.jpg?oh=08064f2a9b8c55864c9af62b0df82e7d&oe=5762F6DA">]]></description>
