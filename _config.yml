@@ -1,0 +1,28 @@
+name: lamariposa
+favicon: null
+layout_spectrum: 0.5411997016053647
+typography_spectrum: 0.35265192366205156
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.0489517617970705
+  lightness: 0.5652542582247406
+  saturation: 0.7644491950049996
+  rhythmicContrast: 0.6749647578690201
+purpose: []
